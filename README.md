@@ -10,7 +10,7 @@
 ![DEBIAN 10-11](https://img.shields.io/badge/Debian-A81D33?style=for-the-badge&logo=debian&logoColor=white) ![LINUX](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black) ![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white) ![GIT](https://img.shields.io/badge/Git-fc6d26?style=for-the-badge&logo=git&logoColor=white)
 ## 🚀 About Me
 I've been learning about development for several years now.<br>
-I started 4-5 years ago with [Skript-Language]([https://skript.com](https://github.com/SkriptLang/Skript)) which allowed me to create my own Minecraft server.<br>
+I started 4-5 years ago with [Skript-Language](https://github.com/SkriptLang/Skript) which allowed me to create my own Minecraft server.<br>
 It was in December 2022 that I finally decided to take up Java.<br>
 In September 2023, I decided to create my first plugin, which I would make public and open source, [MagicSniper](https://github.com/SniperTVmc/MagicSniper).<br>
 In addition to developing largely in Java, I also develop, for myself and my studies, in Python, lightly in HTML, and lightly in CSS.<br>
