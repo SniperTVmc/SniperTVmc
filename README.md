@@ -6,12 +6,6 @@
   <img src="https://streak-stats.demolab.com?user=SniperTVmc&locale=fr&mode=weekly&theme=material-palenight&hide_border=false&border_radius=5&date_format=j M[ Y]" height="150" alt="streak graph"  />
 </div>
 
-<br clear="both">
-
-<img src="https://raw.githubusercontent.com/SniperTVmc/SniperTVmc/output/snake.svg" alt="Snake animation" />
-
-###
-
 ## 🔗 Links
 [![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://dsc.bio/snipertvmc) [![TikTok](https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white)](https://tiktok.com/@sniper_tvmc) [![Twitch](https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white)](https://twitch.tv/sniper_tvmc) [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/Sniper_TVmc) [![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/GastonKrabansky)
 ## ✨ Skills
