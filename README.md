@@ -1,9 +1,9 @@
 
 # Hi, I'm Sniper_TVmc ! 👋
-## 📊 Statistiques GitHub
+## 📊 GitHub Statistics
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=SniperTVmc&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=material-palenight&locale=fr&hide_border=false" height="150" alt="stats graph"  />
-  <img src="https://streak-stats.demolab.com?user=SniperTVmc&locale=fr&mode=weekly&theme=material-palenight&hide_border=false&border_radius=5&date_format=j M[ Y]" height="150" alt="streak graph"  />
+  <img src="https://github-readme-stats.vercel.app/api?username=SniperTVmc&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=material-palenight&hide_border=false" height="150" alt="stats graph"  />
+  <img src="https://streak-stats.demolab.com?user=SniperTVmc&mode=weekly&theme=material-palenight&hide_border=false&border_radius=5&date_format=j M[ Y]" height="150" alt="streak graph"  />
 </div>
 
 ## 🔗 Links
