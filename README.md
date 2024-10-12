@@ -61,11 +61,11 @@
 
 ## 🚀 About Me
 [![](https://visitcount.itsvg.in/api?id=SniperTVmc&icon=5&color=3)](https://visitcount.itsvg.in)<br>
-Hi, I'm Sniper_TVmc.<br>
-I've been passionate about IT and computer programming for over 6 years, and have had the opportunity to experiment in many different domains.<br>
-Starting with some basic code to improve my Minecraft server, using the Skript Language, through to today, where I manage the entire gameplay experience for players in Java.<br>
-This has given me the opportunity to progress and discover many things, programming techniques, structures, organization and data management, whether in YAML, Json or via SQL DBs.<br>
-Despite my attachment to the Java language, I enjoyed myself testing things, but without going very far, as with web languages (HTML, CSS, JavaScript and PHP) or with C# for Unity.<br>
+Hi, I'm **Sniper_TVmc**.<br>
+I've been passionate about **IT** and **computer programming** for over **6 years**, and have had the opportunity to experiment in many different domains.<br>
+Starting with some *basic code to improve my Minecraft server*, using the __Skript Language__, through to today, where I *manage the entire gameplay experience for players* in __Java__.<br>
+This has given me the opportunity to progress and discover many things, **programming techniques**, **structures**, **organization** and **data management**, whether in __YAML__, __Json__ or via __SQL__ DBs.<br>
+Despite my attachment to the __Java__ language, I enjoyed myself **testing things**, but *without going very far*, as with web languages (__HTML__, __CSS__, __JavaScript__ and __PHP__) or with __C#__ for **Unity**.<br>
 
 
 ## 📫 Contact
