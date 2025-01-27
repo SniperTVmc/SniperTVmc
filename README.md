@@ -34,7 +34,7 @@
 > 🐍 **Python**, 2 years' experience _(Language with a solid basis)_<br>
 > 🛡️ **Basics Front-end Languages**, Beginner level _(HTML / CSS / JavaScript)_<br>
 > 💾 **SQL**, About 1 year's experience _(database management)_<br>
-> ?? **Skript Language**, More than 2 years' experience _(Minecraft server management, I don't use it anymore)_<br>
+> ✨ **Skript Language**, More than 2 years' experience _(Minecraft server management, I don't use it anymore)_<br>
 
 ### 🛠️ | Tools :
 > 👨‍💻 **JetBrains** IDEs _(IntelliJ IDEA, PyCharm, PhpStorm)_<br>
