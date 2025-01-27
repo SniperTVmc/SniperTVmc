@@ -1,63 +1,86 @@
-# Hi, I'm Sniper_TVmc ! 👋
+![Profile Banner](assets/profile-banner.png)
 
-## 📊 GitHub Statistics
-![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=SniperTVmc&theme=github_dark)
+-----
+# 👤 | Who am I?
+
+
+> 👋 Hi, my name is **Gaston**, I'm **17** years old, and I'm from **France**.<br>
+> 🖥️ I'm passionate about **IT** and **programming**.<br>
+> 📚 I'm in **12th grade** _(final year of high school)_, and I've joined the **European Section for English**.<br>
+> 🔬 I code mainly in **Java**, but also have a good knowledge of **Python**, **HTML/CSS**, and **JavaScript**..<br>
+> ✉️ Feel free to **contact me by e-mail** at the following address : [snipertv59.pro@gmail.com](mailto:snipertv59.pro@gmail.com)<br>
+
+# 📚 | Studies
+
+*Find out about my educational background and plans*
+
+### 🏫 | High school :
+> 📍 Place: **Lycée Marguerite de Flandre**, Gondecourt, France<br>
+> 📕 Specialized teachings: **Digital and Computer Sciences** and **Mathematics**<br>
+> 🌐 Modern languages: **English** and **Italian**<br>
+> 🗓️ Arrival/end date: **September 2022 - July 2025**<br>
+
+### 👨‍🎓 | Further studies :
+> My current project is to continue my studies in computer science, and more specifically in programming.<br>
+> An engineering school in Lille has a program that particularly interests me.<br>
+> » [Bachelor's degree in application design and development (under a work/study program).](https://www.cesi.fr/formation/bachelor-concepteur-trice-developpeur-se-informatique-en-alternance-2498868/)<br>
+
+# 📈 | Skills
+
+*Discover my skills and areas of expertise*
+
+### 🖥️ | Programming languages :
+> 🍵 **Java**, More than 2 years' experience _(Language I mainly use)_<br>
+> 🐍 **Python**, 2 years' experience _(Language with a solid basis)_<br>
+> 🛡️ **Basics Front-end Languages**, Beginner level _(HTML / CSS / JavaScript)_<br>
+> 💾 **SQL**, About 1 year's experience _(database management)_<br>
+> ?? **Skript Language**, More than 2 years' experience _(Minecraft server management, I don't use it anymore)_<br>
+
+### 🛠️ | Tools :
+> 👨‍💻 **JetBrains** IDEs _(IntelliJ IDEA, PyCharm, PhpStorm)_<br>
+> 📝 **Visual Studio Code**, **NotePad++**, **Sublime Text**<br>
+> ⛓️‍💥 **Git**, **GitHub**<br>
+> 🤖 **ChatGPT**, **GitHub Copilot**<br>
+> 💻 **Linux** _(Debian)_, **Windows** _(10, 11)_<br>
+> ⚙️ **Pterodactyl**, **PhpMyAdmin**, **Webmin**<br>
+
+### 🔗 | Others
+
+> 🎨 **Canva**, **Notion**, **Gitbook**<br>
+> 📄 **Apache**, **poste.io**<br>
+
+# 📦 | Projects
+
+*Discover my projects and achievements*
+
+> ⚠️ **Note**: Unfortunately, most of my projects are **private** or **not available** on GitHub.
+> As a result, I have very few projects representing my level in the different languages.<br>
+>
+> - 🧷 If you'd like to find out more about my private projects in a **strictly professional context**, don't hesitate to contact me by mail.<br>
+> - 🧷 I'd be happy to tell you more about my projects and provide you with code examples.<br>
+
+### 🧪 | EssentialsX-GUI *(Minecraft Plugin)*
+
+> 🏷️ **Description**: An EssentialsX addon that adds some GUIs for Essentials features, like homes, kits, warps, etc...<br>
+> 🌐 **Language**: Java _(Spigot API)_<br>
+> 📊 **Status**: In development _(Beta version available)_<br>
+> 🗃️ **GitHub Repository**: [EssentialsX-GUI](https://github.com/SniperTVmc/EssentialsX-GUI)<br>
+
+# 📊 | Statistics
+
+*Discover my GitHub statistics*
+
+> ⚠️ **Note**: These statistics are based on my public repositories only.<br>
+
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=SniperTVmc&theme=github_dark)<br>
 ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=SniperTVmc&theme=github_dark)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=SniperTVmc&theme=github_dark)
-<!-- ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=SniperTVmc&theme=github_dark) -->
-## 🔗 Useful Links
-### Social networks
-[![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/478908622102069251)
-[![YouTube](https://img.shields.io/badge/YouTube-F00?style=for-the-badge&logo=youtube&logoColor=fff)](https://www.youtube.com/@Sniper_TVmc)
-[![Twitter](https://img.shields.io/badge/X-000?style=for-the-badge&logo=x&logoColor=white)](https://twitter.com/Sniper_TVmc)
-[![Twitch](https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white)](https://twitch.tv/sniper_tvmc)
-[![TikTok](https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white)](https://tiktok.com/@sniper_tvmc)
-### Donation
-[![Paypal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://www.paypal.com/paypalme/GastonKrabansky)
 
-## ✨ Skills
-### Languages
-- ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-- ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-### Databases
-![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
-![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white)
-### Security
-![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=Cloudflare&logoColor=white)
+# 📞 | Contact
 
-## 🛠️ Tools & Softwares
-### IDEs & Code Editors
-![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ_IDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white)
-![PyCharm](https://img.shields.io/badge/PyCharm-000000.svg?&style=for-the-badge&logo=PyCharm&logoColor=white)
-![PhPStorm](https://img.shields.io/badge/-PHPStorm-181717?style=for-the-badge&logo=phpstorm&logoColor=white)
-![VS Code](https://img.shields.io/badge/VSCode-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
-![Sublime Text](https://img.shields.io/badge/sublime_text-%23575757.svg?style=for-the-badge&logo=sublime-text&logoColor=important)
-![Notepad++](https://img.shields.io/badge/Notepad++-90E59A.svg?style=for-the-badge&logo=notepad%2b%2b&logoColor=black)
-### Programming Help
-![ChatGPT](https://img.shields.io/badge/chatGPT-74aa9c?style=for-the-badge&logo=openai&logoColor=white)
-![GitHub Copilot](https://img.shields.io/badge/github%20copilot-000000?style=for-the-badge&logo=githubcopilot&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
-### OS
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
-### Control panels
-![Pterodactyl](https://img.shields.io/badge/Pterodactyl-10539F?style=for-the-badge&logo=pterodactyl&logoColor=fff)
-![phpMyAdmin](https://img.shields.io/badge/phpMyAdmin-6C78AF?style=for-the-badge&logo=phpmyadmin&logoColor=white)
-### Others
-![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?&style=for-the-badge&logo=Canva&logoColor=white)
-![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white)
-![Crowdin](https://img.shields.io/badge/Crowdin-2E3340.svg?style=for-the-badge&logo=Crowdin&logoColor=white)
-![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white)
+*Contact me by e-mail or on social networks*
 
-## 🚀 About Me
-[![](https://visitcount.itsvg.in/api?id=SniperTVmc&icon=5&color=3)](https://visitcount.itsvg.in)<br>
-Hi, I'm **Sniper_TVmc**.<br>
-I've been passionate about **IT** and **computer programming** for over **6 years**, and have had the opportunity to experiment in many different domains.<br>
-Starting with some *basic code to improve my Minecraft server*, using the __Skript Language__, through to today, where I *manage the entire gameplay experience for players* in __Java__.<br>
-This has given me the opportunity to progress and discover many things, **programming techniques**, **structures**, **organization** and **data management**, whether in __YAML__, __Json__ or via __SQL__ DBs.<br>
-Despite my attachment to the __Java__ language, I enjoyed myself **testing things**, but *without going very far*, as with web languages (__HTML__, __CSS__, __JavaScript__ and __PHP__) or with __C#__ for **Unity**.<br>
-
-
-## 📫 Contact
-
-To contact me, please do so via my social networks, via my [mail address](mailto:snipertv59.pro@gmail.com) or by joining my public [discord](https://discord.gg/fSzK79TAYf).
+> ✉️ **Email**: [snipertv59.pro@gmail.com](mailto:snipertv59.pro@gmail.com)<br>
+> 🤖 **Discord**: [@sniper_tvmc](https://discord.com/users/478908622102069251)<br>
+> 🐦 **Twitter (X)**: [@Sniper_TVmc](https://x.com/Sniper_TVmc)<br>
+> 📷 **Instagram**: [@gaston.kbk](https://www.instagram.com/gaston.kbk/)<br>
