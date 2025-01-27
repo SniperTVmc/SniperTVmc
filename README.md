@@ -80,6 +80,7 @@
 
 *Contact me by e-mail or on social networks*
 
+> 💼 **LinkedIn**: [Gaston KRABANSKY](https://www.linkedin.com/in/gaston-krabansky/)<br>
 > ✉️ **Email**: [snipertv59.pro@gmail.com](mailto:snipertv59.pro@gmail.com)<br>
 > 🤖 **Discord**: [@sniper_tvmc](https://discord.com/users/478908622102069251)<br>
 > 🐦 **Twitter (X)**: [@Sniper_TVmc](https://x.com/Sniper_TVmc)<br>
