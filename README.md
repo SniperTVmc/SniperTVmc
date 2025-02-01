@@ -5,11 +5,11 @@
 
 # 👤 | Qui suis-je ?
 
-> 👋 Bonjour, je m'appelle **Gaston**, j'ai **17** ans et je suis **Français**.
-> 🖥️ Je suis passionné par **l'informatique** et **la programmation**.
-> 📚 Je suis en **classe de terminale**, et j'ai rejoint la **Section européenne d'anglais**.
-> 🔬 Je code principalement en **Java**, mais j'ai également de bonnes connaissances avec **Python**, **HTML/CSS**, et **JavaScript**...<br>.
-> ✉️ N'hésitez pas à me **contacter par e-mail** à l'adresse suivante : [snipertv59.pro@gmail.com](mailto:snipertv59.pro@gmail.com)<br>.
+> 👋 Bonjour, je m'appelle **Gaston**, j'ai **17** ans et je suis **Français**.<br>
+> 🖥️ Je suis passionné par **l'informatique** et **la programmation**.<br>
+> 📚 Je suis en **classe de terminale**, et j'ai rejoint la **Section européenne d'anglais**.<br>
+> 🔬 Je code principalement en **Java**, mais j'ai également de bonnes connaissances avec **Python**, **HTML/CSS**, et **JavaScript**.<br>
+> ✉️ N'hésitez pas à me **contacter par e-mail** à l'adresse suivante : [snipertv59.pro@gmail.com](mailto:snipertv59.pro@gmail.com).
 
 # 📚 | Études
 
@@ -19,7 +19,7 @@
 > 📍 Lieu : **Lycée Marguerite de Flandre**, Gondecourt, France<br>
 > 📕 Spécialités : **Numérique et Sciences Informatiques** et **Mathématiques**<br>
 > 🌐 Langues vivantes : **anglais** et **italien**<br>
-> 🗓️ Date d'arrivée/de fin : **septembre 2022 - juillet 2025**<br>.
+> 🗓️ Date d'arrivée/de fin : **septembre 2022 - juillet 2025**.
 
 _Je suis toujours lycéen..._
 
@@ -32,7 +32,7 @@ _Je suis toujours lycéen..._
 > 🐍 **Python**, Environ 2 ans d'expérience _(Langage avec de solides bases)_<br>
 > 🛡️ **Langages Front-end de base**, Niveau débutant _(HTML / CSS / JavaScript)_<br>
 > 💾 **SQL**, Environ 1 an d'expérience _(gestion de base de données)_<br>
-> ✨ **Skript Language**, Plus de 2 ans d'expérience _(gestion de serveur Minecraft, je ne l'utilise plus)_<br>
+> ✨ **Skript Language**, Plus de 2 ans d'expérience _(gestion de serveur Minecraft, je ne l'utilise plus)_
 
 ### 🛠️ | Outils :
 > 👨‍💻 **JetBrains** EDIs _(IntelliJ IDEA, PyCharm, PhpStorm)_<br>
@@ -40,21 +40,21 @@ _Je suis toujours lycéen..._
 > ⛓️‍💥 **Git**, **GitHub**<br>
 > 🤖 **ChatGPT**, **GitHub Copilot**<br>
 > 💻 **Linux** _(Debian)_, **Windows** _(10, 11)_<br>
-> ⚙️ **Pterodactyl**, **PhpMyAdmin**, **Webmin**<br>
+> ⚙️ **Pterodactyl**, **PhpMyAdmin**, **Webmin**
 
 ### 🔗 | Autres
 
 > 🎨 **Canva**, **Notion**, **Gitbook**<br>
-> 📄 **Apache**, **poste.io**<br>
+> 📄 **Apache**, **poste.io**
 
 # 📦 | Projects
 
 *Découvrez mes projets et réalisations*
 
-> ⚠️ **Note**: Malheureusement, la plupart de mes projets sont **privés** ou **non disponibles** sur GitHub.
-> Par conséquent, j'ai très peu de projets représentant mon niveau dans les différents langages.
+> ⚠️ **Note**: Malheureusement, la plupart de mes projets sont **privés** ou **non disponibles** sur GitHub.<br>
+> Par conséquent, j'ai très peu de projets représentant mon niveau dans les différents langages.<br>
 >
-> - 🧷 Si vous souhaitez en savoir plus sur mes projets privés dans un **contexte strictement professionnel**, n'hésitez pas à me contacter par mail.
+> - 🧷 Si vous souhaitez en savoir plus sur mes projets privés dans un **contexte strictement professionnel**, n'hésitez pas à me contacter par mail.<br>
 > - 🧷 Je serais heureux de vous en dire plus sur mes projets et de vous fournir des exemples de code.
 
 ### 🧪 | EssentialsX-GUI *(Plugin Minecraft)*
