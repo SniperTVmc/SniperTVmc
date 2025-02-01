@@ -15,7 +15,7 @@
 
 *En savoir plus sur mon parcours*
 
-### 🏫 | Lycée :
+### 🏫 | Lycée
 > 📍 Lieu : **Lycée Marguerite de Flandre**, Gondecourt, France<br>
 > 📕 Spécialités : **Numérique et Sciences Informatiques** et **Mathématiques**<br>
 > 🌐 Langues vivantes : **anglais** et **italien**<br>
@@ -23,7 +23,7 @@
 
 _Je suis toujours lycéen..._
 
-# 📈 | Skills
+# 📈 | Compétences
 
 *Découvrez mes compétences et mes domaines d'expertise*
 
@@ -47,11 +47,11 @@ _Je suis toujours lycéen..._
 > 🎨 **Canva**, **Notion**, **Gitbook**<br>
 > 📄 **Apache**, **poste.io**
 
-# 📦 | Projects
+# 📦 | Projets
 
 *Découvrez mes projets et réalisations*
 
-> ⚠️ **Note**: Malheureusement, la plupart de mes projets sont **privés** ou **non disponibles** sur GitHub.<br>
+> ⚠️ **Note** : Malheureusement, la plupart de mes projets sont **privés** ou **non disponibles** sur GitHub.<br>
 > Par conséquent, j'ai très peu de projets représentant mon niveau dans les différents langages.<br>
 >
 > - 🧷 Si vous souhaitez en savoir plus sur mes projets privés dans un **contexte strictement professionnel**, n'hésitez pas à me contacter par mail.<br>
@@ -68,7 +68,7 @@ _Je suis toujours lycéen..._
 
 *Découvrez mes statistiques GitHub*
 
-> ⚠️ **Note**: Ces statistiques sont basées sur mes dépôts publics uniquement.<br>
+> ⚠️ **Note** : Ces statistiques sont basées sur mes dépôts publics uniquement.<br>
 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=SniperTVmc&theme=github_dark)<br>
 ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=SniperTVmc&theme=github_dark)
